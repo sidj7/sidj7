@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**sidj7/sidj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **Hi there 👋**
+## About me
+I am **Siddharth Jain**<br/>
+Currently Pursuing **B.tech in CSE from Graphic Era University**
+___
+- 🔭 I’m currently working on **Full stack development**
+- 💬 Ask me about **data structures and alogorithms**
+- 📫 How to reach me: **sdzen.sid@gmail.com**
+- 😄 I love to discuss about **competitive programming**
+- ⚡love to **sing, travel and code**
+___
+## profile section<br/>
+- leetcode:{https://leetcode.com/sdzen7111/}
+- codeforces:{https://codeforces.com/profile/sdzen.sid}
+- linkedin:{https://www.linkedin.com/in/siddharth-jain-040900203/}
